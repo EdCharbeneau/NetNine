@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetNine", "NetNine\NetNine\NetNine.csproj", "{324CC202-C723-4480-8E53-8F12880CA91B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetNine.Client", "NetNine\NetNine.Client\NetNine.Client.csproj", "{855BC283-6525-493B-96F6-775CC2DA10E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetNine.AppHost", "NetNine.AppHost\NetNine.AppHost.csproj", "{2CDE9158-671B-4BA8-954A-59E48F4025DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetNine.ServiceDefaults", "NetNine.ServiceDefaults\NetNine.ServiceDefaults.csproj", "{7747F51B-482D-47CF-BACD-D53B73ECF775}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{324CC202-C723-4480-8E53-8F12880CA91B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{324CC202-C723-4480-8E53-8F12880CA91B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{324CC202-C723-4480-8E53-8F12880CA91B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{324CC202-C723-4480-8E53-8F12880CA91B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{855BC283-6525-493B-96F6-775CC2DA10E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{855BC283-6525-493B-96F6-775CC2DA10E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{855BC283-6525-493B-96F6-775CC2DA10E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{855BC283-6525-493B-96F6-775CC2DA10E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CDE9158-671B-4BA8-954A-59E48F4025DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CDE9158-671B-4BA8-954A-59E48F4025DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CDE9158-671B-4BA8-954A-59E48F4025DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CDE9158-671B-4BA8-954A-59E48F4025DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7747F51B-482D-47CF-BACD-D53B73ECF775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7747F51B-482D-47CF-BACD-D53B73ECF775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7747F51B-482D-47CF-BACD-D53B73ECF775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7747F51B-482D-47CF-BACD-D53B73ECF775}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
